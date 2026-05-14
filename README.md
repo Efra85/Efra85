@@ -9,10 +9,9 @@
 
 #
 <!-- -->
-
-Profissional de TI com experiência em infraestrutura, cloud computing (Azure & AWS) e
-integração de sistemas.Atuei em projetos de migração para nuvem, modernização e automação,
-entregando escalabilidade, segurança, redução de custos e melhor performance.
+Desenvolvedor e Arquiteto de Soluções, aplicando conhecimentos em
+Cloud, DevOps, integração e segurança para criar soluções escaláveis e alinhadas ao
+negócio.
 
 Destaques:
 
@@ -22,10 +21,6 @@ Destaques:
   
   • Integração de aplicações em ambientes cloud híbridos com alta disponibilidade.
   
-Busco consolidar minha carreira como Desenvolvedor e Arquiteto de Soluções, aplicando conhecimentos em
-Cloud, DevOps, integração e segurança para criar soluções escaláveis e alinhadas ao
-negócio.
-
 Competências estratégicas:
 
   • Cloud & Infraestrutura: Azure, AWS, Administração de Servidores, Servidores Web,
