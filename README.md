@@ -9,7 +9,33 @@
 
 #
 <!-- -->
-Profissional da área de Desenvolvimento de Softwares e Sistemas, estudante de Engenharia de Software na faculdade Descomplica. Em busca constante de conhecimento e atualizações, através de cursos e especializações. 
+
+Profissional de TI com experiência em infraestrutura, cloud computing (Azure & AWS) e
+integração de sistemas, em transição para Arquitetura de Soluções.
+Atuei em projetos de arquitetura, migração para nuvem, modernização e automação,
+entregando escalabilidade, segurança, redução de custos e melhor performance.
+Destaques:
+
+  • Modelagem e documentação de arquiteturas e integrações.
+  • Definição de padrões técnicos e governança.
+  • Integração de aplicações em ambientes cloud híbridos com alta disponibilidade.
+  
+Busco consolidar minha carreira como Arquiteto de Soluções, aplicando conhecimentos em
+Cloud, DevOps, integração e segurança para criar soluções escaláveis e alinhadas ao
+negócio.
+
+Competências estratégicas:
+
+  • Cloud & Infraestrutura: Azure, AWS, Administração de Servidores, Servidores Web,
+    Proxy, Redes de Computadores, Segurança da Informação, Linux, Windows, UNIX;
+
+  • Arquitetura de Soluções: Análise de Requisitos, Integração de Sistemas,
+    Desenho de Arquitetura, Modelagem de Processos;
+
+  • Desenvolvimento e Automação: Java, Spring Boot, JavaScript, Python, PHP,
+    Selenium, Cypress, Automação de Testes;
+  • Banco de Dados: SQL Server, Modelagem de Dados, Consultas Otimizadas;
+  • Metodologias e Gestão: ITIL, Agile, Scrum, Governança de TI, Melhoria Contínua.
 
 #
 ## Tech - Stack
