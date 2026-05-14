@@ -11,8 +11,7 @@
 <!-- -->
 
 Profissional de TI com experiência em infraestrutura, cloud computing (Azure & AWS) e
-integração de sistemas, em transição para Desenvolvedor e Arquiteto de Soluções.
-Atuei em projetos de migração para nuvem, modernização e automação,
+integração de sistemas.Atuei em projetos de migração para nuvem, modernização e automação,
 entregando escalabilidade, segurança, redução de custos e melhor performance.
 
 Destaques:
