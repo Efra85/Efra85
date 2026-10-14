@@ -14,7 +14,7 @@ observabilidade desde o primeiro commit.
 - **Contact Form Worker** (Cloudflare Workers): backend serverless em produção → [repo](link)
 
 ## 🧰 Stack
-**Backend:** Java 21 · Spring Boot · Rust (Axum) · Node.js
+**Backend:** Java 21 · Spring Boot · Node.js
 **Frontend:** React · Next.js · TypeScript · Tailwind
 **Cloud/DevOps:** Azure · AWS · Cloudflare · Docker · GitHub Actions
 **Dados:** PostgreSQL · MongoDB · SQL Server · SQLite
