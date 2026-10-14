@@ -2,7 +2,7 @@
 **Desenvolvedor Full Stack · Java/Spring Boot · Node.js· React/Next.js · Cloud (Azure/AWS)**
 
 Construo sistemas de ponta a ponta: do frontend em Next.js ao backend em
-Spring Boot e Rust, com deploy em containers e nuvem. Venho de suporte
+Spring Boot + IA, com deploy em containers e nuvem. Venho de suporte
 N2 e infraestrutura crítica, então penso em confiabilidade, segurança e
 observabilidade desde o primeiro commit.
 
@@ -24,7 +24,6 @@ observabilidade desde o primeiro commit.
 [LinkedIn](https://www.linkedin.com/in/efraimcorreaortiz) · efraimortiz@outlook.com
 
 <details><summary>🇺🇸 English</summary>
-Full Stack Developer building end-to-end systems with Java/Spring Boot,
-Rust and Next.js, deployed on Azure/AWS. Background in critical
+Full Stack Developer building end-to-end systems with Java/Spring Boot +IA and Next.js, deployed on Azure/AWS. Background in critical
 infrastructure support. B2 English (technical reading/writing).
 </details>
