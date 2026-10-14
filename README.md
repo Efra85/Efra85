@@ -2,7 +2,7 @@
 
 **Desenvolvedor Full Stack · Automação, IA e Integrações**
 
-Construo sistemas de ponta a ponta, do frontend em Next.js ao backend em Spring Boot,
+Atuo como desenvolvedor de sistemas de ponta a ponta, do frontend em Next.js ao backend em Spring Boot, integrações de APIs REST
 com automações e IA aplicadas a processos reais. Venho de suporte N2 e infraestrutura
 crítica, então penso em confiabilidade desde o primeiro commit.
 **Disponível para projetos freelance e remoto.**
