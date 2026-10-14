@@ -9,10 +9,8 @@ observabilidade desde o primeiro commit.
 ## 🔭 Projetos em destaque
 - **API de Incidentes + IA** (Spring Boot, Spring AI, Docker): classificação
   de incidentes com fallback resiliente → [repo](link)
-- **Sentinela Auth** (Rust, Axum, Tokio): autenticação com IP-lock de refresh
-  token → [repo/demo](link)
 - **TechnoSystems Lab** (Next.js, Spring Boot, Kafka): laboratório interativo
-  de arquitetura → [technosystems.com.br](https://technosystems.com.br)
+  de arquitetura → [technosystems.com.br](https://www.technosystems.com.br/laboratorio)
 - **Contact Form Worker** (Cloudflare Workers): backend serverless em produção → [repo](link)
 
 ## 🧰 Stack
