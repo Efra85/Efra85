@@ -1,99 +1,32 @@
+# Efraim Corrêa Ortiz
+**Desenvolvedor Full Stack · Java/Spring Boot · Rust · React/Next.js · Cloud (Azure/AWS)**
 
+Construo sistemas de ponta a ponta: do frontend em Next.js ao backend em
+Spring Boot e Rust, com deploy em containers e nuvem. Venho de suporte
+N2 e infraestrutura crítica, então penso em confiabilidade, segurança e
+observabilidade desde o primeiro commit.
 
-# 👨‍💻️ Efraim Corrêa Ortiz - 
+## 🔭 Projetos em destaque
+- **API de Incidentes + IA** (Spring Boot, Spring AI, Docker): classificação
+  de incidentes com fallback resiliente → [repo](link)
+- **Sentinela Auth** (Rust, Axum, Tokio): autenticação com IP-lock de refresh
+  token → [repo/demo](link)
+- **TechnoSystems Lab** (Next.js, Spring Boot, Kafka): laboratório interativo
+  de arquitetura → [technosystems.com.br](https://technosystems.com.br)
+- **Contact Form Worker** (Cloudflare Workers): backend serverless em produção → [repo](link)
 
-**'Desenvolvedor FullStack'**
+## 🧰 Stack
+**Backend:** Java 21 · Spring Boot · Rust (Axum) · Node.js
+**Frontend:** React · Next.js · TypeScript · Tailwind
+**Cloud/DevOps:** Azure · AWS · Cloudflare · Docker · GitHub Actions
+**Dados:** PostgreSQL · MongoDB · SQL Server · SQLite
+**Qualidade:** JUnit · Cypress · Selenium
 
+## 📫 Contato
+[LinkedIn](https://www.linkedin.com/in/efraimcorreaortiz) · efraimortiz@outlook.com
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Olá,+Tudo+bem+🤓️,+Me+Chamo+Efraim+Corrêa+Ortiz;+Seja+Bem+Vindo+ao+meu+Perfil!;Sou+Desenvolvedor+FullStack,estudante+e;Futuro+Engenheiro+de+Software!)](https://git.io/typing-svg)
-
-#
-<!-- -->
-Desenvolvedor e Arquiteto de Soluções, aplicando conhecimentos em
-Cloud, DevOps, integração e segurança para criar soluções escaláveis e alinhadas ao
-negócio.
-
-Destaques:
-
-  • Modelagem e documentação de arquiteturas e integrações.
-  
-  • Definição de padrões técnicos e governança.
-  
-  • Integração de aplicações em ambientes cloud híbridos com alta disponibilidade.
-  
-Competências estratégicas:
-
-  • Cloud & Infraestrutura: Azure, AWS, Administração de Servidores, Servidores Web,
-    Proxy, Redes de Computadores, Segurança da Informação, Linux, Windows, UNIX;
-
-  • Arquitetura de Soluções: Análise de Requisitos, Integração de Sistemas,
-    Desenho de Arquitetura, Modelagem de Processos;
-
-  • Desenvolvimento e Automação: Java, Spring Boot + IA, JavaScript, Python, PHP,
-    Selenium, Cypress, Automação de Testes;
-  • Banco de Dados: SQL Server, Modelagem de Dados, Consultas Otimizadas;
-  • Metodologias e Gestão: ITIL, Agile, Scrum, Governança de TI, Melhoria Contínua.
-
-#
-## Tech - Stack
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="react"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/374056/rust.svg" height="40" alt="rust"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscodium/vscodium-original.svg" height="40" alt="vscodium logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/353659/docker-icon.svg" height="40" alt="docker"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/353906/intellij-idea.svg" height="40" alt="intellij"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/354381/sqlite.svg" height="40" alt="sqlite"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/373845/mongo.svg" height="40" alt="Mongo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" height="40" alt="MySql"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/331761/sql-database-sql-azure.svg" height="40" alt="sql"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/373829/maven.svg" height="40" alt="Maven"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" height="40" alt="Postman"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/JUnit.svg" height="40" alt="JUnit"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/Selenium.svg" height="40" alt="Selenium"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Cypress.png" height="40" alt="Cypress"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/png-shadow-512/AWS.png" height="40" alt="AWS"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/Podman.svg" height="40" alt="Podman"  />
-  <img width="12" />
-</div>
-
-
-<img src="https://raw.githubusercontent.com/Alphathanlwin/Alphathanlwin/output/snake.svg" alt="Snake animation" />
-
-<!-- -->
-
-**Efra85/Efra85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+<details><summary>🇺🇸 English</summary>
+Full Stack Developer building end-to-end systems with Java/Spring Boot,
+Rust and Next.js, deployed on Azure/AWS. Background in critical
+infrastructure support. B2 English (technical reading/writing).
+</details>
