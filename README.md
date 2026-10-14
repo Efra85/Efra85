@@ -1,5 +1,5 @@
 # Efraim Corrêa Ortiz
-**Desenvolvedor Full Stack · Java/Spring Boot · Rust · React/Next.js · Cloud (Azure/AWS)**
+**Desenvolvedor Full Stack · Java/Spring Boot · Node.js· React/Next.js · Cloud (Azure/AWS)**
 
 Construo sistemas de ponta a ponta: do frontend em Next.js ao backend em
 Spring Boot e Rust, com deploy em containers e nuvem. Venho de suporte
